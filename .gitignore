@@ -1,0 +1,22 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Thonny
+.thonny/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
